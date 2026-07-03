@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner"/>
+  <img src="header.png" alt="Banner"/>
 </p>
 
 <p align="center">
@@ -143,43 +143,26 @@ GSAP
 
 <p align="center">
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/vijayalakshmis32/vijayalakshmis32">
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="www.linkedin.com/in/vijayalakshmis01">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+
+<a href="mailto:vijayalakshmi_s_@outlook.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_DISCORD_PROFILE">
+<a href="1516477385208369317">
 <img src="https://skillicons.dev/icons?i=discord" width="50"/>
 </a>
 
-</p>
-
-<p align="center">
-
-<a href="YOUR_GITHUB_LINK">GitHub</a> •
-<a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a> •
-<a href="YOUR_DISCORD_PROFILE">Discord</a>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&section=footer"/>
 </p>
 
 <p align="center">
