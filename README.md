@@ -118,16 +118,26 @@ Community Collaboration
 ```
 
 ---
+<h2 align="center">
+  <span style="color:#2563EB;">INTERNSHIP EXPERIENCE</span>
+</h2>
 
-##  Internship Experience
 
-### Impact of Social Media Reels and Television Content on Human Brain Activity and Attention Using EEG Analysis 
+### Impact of Social Media Reels and Television Content on Human Brain Activity and Attention Using EEG Analysis
+<h4>
+<span>Role: <i> Brain Technlogies  Intern "|
+</i>
+Organization:<i>VTU with ITIE</i>|
+
+Duration:<i>Feb 2026 – May 2026</i>
+</span>
+</h4>
 
 Developed a Python-based EEG signal analysis pipeline to study the cognitive effects of social media, television, educational videos, and resting conditions. Implemented frequency band analysis, statistical testing, and data visualizations to evaluate attention, mental fatigue, and cognitive engagement.
 
 **Tech Stack:** Python, NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, Statsmodels, MNE
 
-🔗 **Repository:** https://github.com/vijayalakshmis32/Impact of Social Media Reels and Tv Content on Human Brain and Attention Using EEG Analysis 
+🔗 **Repository:** https://github.com/vijayalakshmis32/Impact-of-Social-Media-Reels-and-Tv-Content-on-Human-Brain-and-Attention-Using-EEG-Analysis-
 
 ---
 <h2 align="center">
