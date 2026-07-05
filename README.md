@@ -119,24 +119,17 @@ Community Collaboration
 
 ---
 
-### 3D Web Journey
+##  Internship Experience
 
-```text
-Currently Learning
+### Impact of Social Media Reels and Television Content on Human Brain Activity and Attention Using EEG Analysis 
 
-Next.js
+Developed a Python-based EEG signal analysis pipeline to study the cognitive effects of social media, television, educational videos, and resting conditions. Implemented frequency band analysis, statistical testing, and data visualizations to evaluate attention, mental fatigue, and cognitive engagement.
 
-Three.js
+**Tech Stack:** Python, NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, Statsmodels, MNE
 
-React Three Fiber
-
-Spline
-
-GSAP
-```
+🔗 **Repository:** https://github.com/vijayalakshmis32/Impact of Social Media Reels and Tv Content on Human Brain and Attention Using EEG Analysis 
 
 ---
-
 <h2 align="center">
   <span style="color:#2563EB;">LET'S CONNECT</span>
 </h2>
