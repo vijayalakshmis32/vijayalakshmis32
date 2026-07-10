@@ -110,7 +110,7 @@ management, sales reporting and business insights.
 ```text
 
 ```
-**Repository:** https://github.com/vijayalakshmis32/YT
+**Repository:** https://github.com/vijayalakshmis32/YT-Summarizer
 
 ---
 <h2 align="center">
