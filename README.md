@@ -105,17 +105,12 @@ management, sales reporting and business insights.
 
 ---
 
-### Open Source
+### YT Summary 
 
 ```text
-Feature Development
 
-Bug Fixes
-
-Documentation
-
-Community Collaboration
 ```
+**Repository:** https://github.com/vijayalakshmis32/YT
 
 ---
 <h2 align="center">
