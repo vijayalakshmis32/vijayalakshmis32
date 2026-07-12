@@ -104,13 +104,13 @@ management, sales reporting and business insights.
 
 **Repo:https:**//github.com/vijayalakshmis32/Retail-Intelligence-Platform/tree/main```
 ---
-
+```
 ### YT Summary 
 
 ```text
 Built a Python and Streamlit application that extracts YouTube transcripts and generates concise summaries using the BART Transformer model and YouTube Transcript AP
-```
 **Repository:** https://github.com/vijayalakshmis32/YT-Summarizer
+```
 
 ---
 <h2 align="center">
