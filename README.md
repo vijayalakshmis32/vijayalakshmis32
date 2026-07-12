@@ -102,7 +102,7 @@ Java • Spring Boot • React • MySQL
 Retail analytics platform designed for inventory
 management, sales reporting and business insights.
 ```
-
+**Repo:https:**//github.com/vijayalakshmis32/Retail-Intelligence-Platform/tree/main
 ---
 
 ### YT Summary 
